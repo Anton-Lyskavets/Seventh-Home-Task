@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seventh-Home-Task</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sending_values">отправка значений</string>
+    <string name="result_sending_values">Результат</string>
+    <string name="ok">ОК</string>
+</resources>
